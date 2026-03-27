@@ -355,9 +355,19 @@ If this project helped you, please consider giving it a star — it means a lot!
 </div>
 
 ```
+<div align="center">
 
-**Built with ❤️ using Rust · Redis · React**
+### ⚡ Tech Stack
 
-*Star ⭐ this repo if you found it useful!*
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+---
+
+🦀 **Backend:** Rust + Redis  
+⚛ **Frontend:** React Dashboard
+
+⭐ **Star this repository if it helped you!**
 
 </div>

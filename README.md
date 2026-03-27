@@ -359,15 +359,15 @@ If this project helped you, please consider giving it a star — it means a lot!
 
 ### ⚡ Tech Stack
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
 🦀 **Backend:** Rust + Redis  
-⚛ **Frontend:** React Dashboard
+⚛ **Frontend:** React Dashboard  
 
-⭐ **Star this repository if it helped you!**
+⭐ **Star this repository if you like it!**
 
 </div>

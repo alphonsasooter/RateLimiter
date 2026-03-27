@@ -11,8 +11,6 @@
 **A high-performance, distributed API rate limiter built with Rust and Redis.**  
 Sub-millisecond latency · Atomic Lua scripts · React Admin Dashboard
 
-[Getting Started](#-getting-started) · [API Reference](#-api-reference) · [Benchmarks](#-benchmarks) · [Dashboard](#-dashboard)
-
 </div>
 
 ---

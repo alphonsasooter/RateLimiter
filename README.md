@@ -6,7 +6,6 @@
 ![Redis](https://img.shields.io/badge/Redis-7.0-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)
 
 **A high-performance, distributed API rate limiter built with Rust and Redis.**  
 Sub-millisecond latency · Atomic Lua scripts · React Admin Dashboard

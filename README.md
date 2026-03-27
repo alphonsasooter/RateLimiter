@@ -1,4 +1,4 @@
-#  Rate Limiter
+# ⚡ Rate Limiter
 
 <div align="center">
 
@@ -6,10 +6,12 @@
 ![Redis](https://img.shields.io/badge/Redis-7.0-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-22c55e?style=for-the-badge)
 
 **A high-performance, distributed API rate limiter built with Rust and Redis.**  
 Sub-millisecond latency · Atomic Lua scripts · React Admin Dashboard
 
+[Getting Started](#-getting-started) · [API Reference](#-api-reference) · [Benchmarks](#-benchmarks) · [Dashboard](#-dashboard)
 
 </div>
 
@@ -274,10 +276,10 @@ cargo test -- --nocapture
 
 **Test coverage:**
 
-| Suite         | Tests | What's covered                                      |
-|---------------|-------|-----------------------------------------------------|
+| Suite         | Tests | What's covered                                       |
+|---------------|-------|------------------------------------------------------|
 | Token Bucket  | 6     | Limits, blocking, remaining, burst, reset, isolation |
-| Fixed Window  | 7     | Limits, blocking, retry-after, reset, boundary edge cases |
+| Fixed Window  | 7     | Limits, blocking, retry-after, reset, boundary cases |
 
 ---
 
@@ -339,11 +341,36 @@ rate-limiter/
 - [ ] Persistent rules in PostgreSQL
 - [ ] Webhook alerts on threshold breach
 
+---
+
+## 🌟 Support the Project
+
+<div align="center">
+
+If this project helped you, please consider giving it a star — it means a lot!
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/rate-limiter?style=for-the-badge&logo=github&color=f59e0b&labelColor=1e293b&label=⭐%20Stars)](https://github.com/yourusername/rate-limiter/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/rate-limiter?style=for-the-badge&logo=github&color=6366f1&labelColor=1e293b&label=👁%20Watchers)](https://github.com/yourusername/rate-limiter/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/rate-limiter?style=for-the-badge&logo=github&color=22c55e&labelColor=1e293b&label=🍴%20Forks)](https://github.com/yourusername/rate-limiter/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/rate-limiter?style=for-the-badge&logo=github&color=ef4444&labelColor=1e293b&label=🐛%20Issues)](https://github.com/yourusername/rate-limiter/issues)
+
+</div>
 
 ---
 
 <div align="center">
 
-Built with ❤️ using Rust · Redis · React
+```
+██████╗  █████╗ ████████╗███████╗    ██╗     ██╗███╗   ███╗██╗████████╗███████╗██████╗ 
+██╔══██╗██╔══██╗╚══██╔══╝██╔════╝    ██║     ██║████╗ ████║██║╚══██╔══╝██╔════╝██╔══██╗
+██████╔╝███████║   ██║   █████╗      ██║     ██║██╔████╔██║██║   ██║   █████╗  ██████╔╝
+██╔══██╗██╔══██║   ██║   ██╔══╝      ██║     ██║██║╚██╔╝██║██║   ██║   ██╔══╝  ██╔══██╗
+██║  ██║██║  ██║   ██║   ███████╗    ███████╗██║██║ ╚═╝ ██║██║   ██║   ███████╗██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝    ╚══════╝╚═╝╚═╝     ╚═╝╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+```
+
+**Built with ❤️ using Rust · Redis · React**
+
+*Star ⭐ this repo if you found it useful!*
 
 </div>

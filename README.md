@@ -347,7 +347,7 @@ rate-limiter/
 
 If this project helped you, please consider giving it a star — it means a lot!
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/rate-limiter?style=for-the-badge&logo=github&color=f59e0b&labelColor=1e293b&label=⭐%20Stars)](https://github.com/alphonsasooter/rate-limiter/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/alphonsasooter/rate-limiter?style=for-the-badge&logo=github&color=f59e0b&labelColor=1e293b&label=⭐%20Stars)](https://github.com/alphonsasooter/rate-limiter/stargazers)
 [![GitHub watchers](https://img.shields.io/github/watchers/alphonsasooter/rate-limiter?style=for-the-badge&logo=github&color=6366f1&labelColor=1e293b&label=👁%20Watchers)](https://github.com/alphonsasooter/rate-limiter/watchers)
 [![GitHub forks](https://img.shields.io/github/forks/alphonsasooter/rate-limiter?style=for-the-badge&logo=github&color=22c55e&labelColor=1e293b&label=🍴%20Forks)](https://github.com/alphonsasooter/rate-limiter/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/alphonsasooter/rate-limiter?style=for-the-badge&logo=github&color=ef4444&labelColor=1e293b&label=🐛%20Issues)](https://github.com/alphonsasooter/rate-limiter/issues)

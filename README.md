@@ -1,4 +1,4 @@
-# ⚡ Rate Limiter
+#  Rate Limiter
 
 <div align="center">
 

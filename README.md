@@ -355,5 +355,3 @@ If this project helped you, please consider giving it a star — it means a lot!
 [![GitHub issues](https://img.shields.io/github/issues/alphonsasooter/rate-limiter?style=for-the-badge&logo=github&color=ef4444&labelColor=1e293b&label=🐛%20Issues)](https://github.com/alphonsasooter/rate-limiter/issues)
 
 </div>
-
-```

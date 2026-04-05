@@ -328,17 +328,6 @@ rate-limiter/
 | `REDIS_URL`  | `redis://127.0.0.1:6379`   | Redis connection string  |
 | `RUST_LOG`   | `info`                     | Log level                |
 
----
-
-## 🗺 Roadmap
-
-- [ ] Sliding Window algorithm
-- [ ] Leaky Bucket algorithm
-- [ ] Prometheus metrics endpoint
-- [ ] Per-endpoint rule matching
-- [ ] JWT / API key authentication
-- [ ] Persistent rules in PostgreSQL
-- [ ] Webhook alerts on threshold breach
 
 ---
 
